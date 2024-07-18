@@ -1,0 +1,2 @@
+Mutagen==1.47.0
+PySimpleGUI==5.0.6
